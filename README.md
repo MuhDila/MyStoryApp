@@ -2,10 +2,6 @@
 
 This repository contains the source code for MyStoryApp, a storytelling Android application developed as part of the Dicoding course's final project. MyStoryApp allows users to share and explore stories from fellow learners who have completed and excelled in the Dicoding courses.
 
-## Screenshots
-
-![Screenshot 1](https://example.com/screenshot1.png)
-
 ## Features
 
 - **Authentication Page**: Provides a secure login and registration experience with necessary input fields.
@@ -14,6 +10,10 @@ This repository contains the source code for MyStoryApp, a storytelling Android 
 - **Story Details**: Presents detailed information about a selected story, including user name, photo, and description.
 - **Add Story**: Allows users to contribute by adding their own stories, complete with photo upload and description.
 - **Logout**: Enables users to log out, clearing session and token information.
+
+## Screenshots
+
+![Screenshot 1](https://example.com/screenshot1.png)
 
 ## Installation
 
