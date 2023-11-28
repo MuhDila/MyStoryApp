@@ -19,7 +19,7 @@ This repository contains the source code for MyStoryApp, a storytelling Android 
 
 To run MyStoryApp on your local environment, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/YourUsername/MyStoryApp.git`
+1. Clone this repository: `git clone https://github.com/MuhDila/MyStoryApp.git`
 2. Open the project in Android Studio.
 3. Build and run the app on your device or emulator.
 
