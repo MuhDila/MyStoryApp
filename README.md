@@ -1,4 +1,4 @@
-![image](https://github.com/MuhDila/MyStoryApp/assets/89615227/59426931-14e2-45bf-9f94-f2ea208a4d2a)# MyStoryApp
+# MyStoryApp
 
 This repository contains the source code for MyStoryApp, a storytelling Android application developed as part of the Dicoding course's final project. MyStoryApp allows users to share and explore stories from fellow learners who have completed and excelled in the Dicoding courses.
 
@@ -13,7 +13,7 @@ This repository contains the source code for MyStoryApp, a storytelling Android 
 
 ## Screenshots
 
-![Screenshot 1](https://example.com/screenshot1.png](https://res.cloudinary.com/dhadtef9h/image/upload/v1701154359/Artboard_1_1_smv0lt.png)
+![Screenshot 1](https://res.cloudinary.com/dhadtef9h/image/upload/v1701154359/Artboard_1_1_smv0lt.png)
 
 ## Installation
 
