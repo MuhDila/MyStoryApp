@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">My Story App</string>
+    <string name="image">Ini adalah sebuh gambar</string>
+    <string name="intro">Guiding Your Journey to Your Inner Story</string>
+    <string name="intro2">Where Every Story Begins. Discover, Create, and Share Your Stories with the World.</string>
+
+    <string name="get_started">Get Started</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="image_login">Image Login</string>
+    <string name="enter_password">Enter your password</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="decs_login">Sign In to Access Your Story and Get Real-Time Updates</string>
+    <string name="create_your_account">Create Your Account</string>
+    <string name="decs_register">Join Us and start Your Journey Today and Discover A World of Exciting Features</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="min_character">Min 8 character</string>
+    <string name="register_success">Register Success</string>
+    <string name="login_success">Login Success</string>
+    <string name="register_failed">Register Failed</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="username">Username</string>
+    <string name="description">Description</string>
+    <string name="retry">Retry</string>
+
+    <string name="permission_denied">Permission Denied</string>
+    <string name="upload_success">Upload Success</string>
+    <string name="upload_fail">Upload Failed</string>
+    <string name="fail_take_picture">Fail Take Picture</string>
+    <string name="fail_show_camera">Fail to Show Camera</string>
+    <string name="select_image_first">Select Image First</string>
+    <string name="logout">Logout</string>
+    <string name="detail_story">Detail Story</string>
+    <string name="upload_story">Upload Your Story</string>
+    <string name="select_from_gallery">Open Gallery</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">Maps</string>
+    <string name="location_not_found">Location not found</string>
+    <string name="your_location">Your location</string>
+    <string name="fail_load_stories">Fail to load story</string>
+    <string name="story_by">"Story by "</string>
+    <string name="maps_activity">Maps Activity</string>
+
+    <string name="confirm_logout_title">Confirm Logout</string>
+    <string name="confirm_logout_message">Are you sure you want to log out?</string>
+    <string name="confirm_logout_yes">Yes</string>
+    <string name="confirm_logout_cancel">Cancel</string>
+</resources>
